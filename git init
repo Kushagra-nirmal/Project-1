@@ -1,0 +1,16 @@
+
+git remote add origin REPO-url
+git config--list
+
+git branch -M main
+
+git pull origin main 
+
+.......Work complete
+
+git add.
+git status
+git commit -m "Your message"
+git push origin main
+
+git config --global user.name
